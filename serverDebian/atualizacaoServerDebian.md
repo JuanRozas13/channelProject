@@ -1,6 +1,6 @@
 # Atualização do Sistema Debian Server 13.4.0 no VirtualBox
 
-#Autor: JF Tech<br>
+#Autor: Juan Rozas<br>
 #Projeto: Infraestrutura de Rede com VirtualBox<br>
 #Sistema Operacional: Debian Server 13.4.0<br>
 #Ambiente: Máquina Virtual no Oracle VM VirtualBox<br>
